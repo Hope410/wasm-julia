@@ -1,5 +1,5 @@
 <div align="center">
-  <h1><code>WASM Typescript Template</code></h1>
+  <h1><code>WASM Julia Fractal</code></h1>
 </div>
 
 ## Prerequirements
